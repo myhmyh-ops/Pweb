@@ -9,7 +9,7 @@ body {
     position: relative;
     width: 100%;
     height: 100vh;
-    background-image: url('../images/home/hero-bg.jpg');
+    background-image: url('/myhmyh-ops/Pweb/images/home/hero-bg.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -110,5 +110,5 @@ body {
 }
 
 .logo {
-    background-image: url('../images/logo/logo.png');
+    background-image: url('/myhmyh-ops/Pweb/edit/images/logo/logo.png');
 } 
